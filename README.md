@@ -12,3 +12,5 @@ Send to your Android phone, and unzip them in your file browser (they will be in
 Next start your Firefox browser and search for '/' in the search bar. Type *only* / before searching.
 Next navigate to sdcard/Downloads/Stockhlm-ticket-art-contest and open index.html 
 The art should be pleasent for you to behold.
+
+![Screenshot](screenshot.png)
