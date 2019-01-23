@@ -20,4 +20,6 @@ You must now navigate through the folders: sdcard/Download/Stockholm-ticket-art-
 
 You may now enjoy your ticket-art.
 
+#Do not use as fake-ticket in Sweden as it is very illegal and would constitute forgery!
+
 ![Screenshot](screenshot.png)
