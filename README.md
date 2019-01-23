@@ -3,7 +3,8 @@ Stockholm ticket art competition
 
 This is a personal art-project for Stockholm Ticket Art. It is an inofficial, rolling contest by some interested in ticket-art in the Stockholm area.
 
-The purpose is art, and nothing else. This entry is a submission of one individuals (with the unknowing help of others and their skill) artistic intepretation of the Stockholm SL tickets. This may not be used for entering the metro/bus system as it would constitute forgery and is a very serious crime in Sweden.
+The purpose is art, and nothing else. This entry is a submission of one individuals (with the unknowing help of others and their skill) artistic intepretation of the Stockholm SL tickets. 
+Remember that it is a serious crime in Sweden to use fake-tickets. 
 
 # In order to view on mobile, Android device: 
 
