@@ -16,7 +16,7 @@ Next open the Android file manager, navigate to "Downloads" and unzip the Stockh
 Next start your Firefox browser and search for '/' in the search bar. 
 It is important that you type only /  that is, the forward slash-symbol and hit search. Firefox will show you your own directory tree.
 
-You must now navigate through the folders: sdcard/Download/Stockholm-ticket-art-contest and in the unzipped directory you will find a file called index.html which you may now click.
+You must now navigate through the folders: sdcard/Download/stockholm-ticket-art-master and in the unzipped directory you will find a file called index.html which you may now click.
 
 You may now enjoy your ticket-art.
 
