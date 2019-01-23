@@ -8,11 +8,11 @@ Remember that it is a serious crime in Sweden to use fake-tickets.
 
 # In order to view on mobile, Android device: 
 
-download these files as .zip to your computer.
+Get the .zip file on to your Android phone, either surf to this page, view as desktop version and download directly or 
+download the .zip to your computer and send to your Android phone.
+I use wifi via kdeconnect, but some email it to themselves and download it from there (to their phone). 
 
-Send to your Android phone, in any way, I use wifi via an app called kdeconnect, but it is easier to email the .zip file to yourself and download it to your phone. 
-Next open the Android file manager, navigate to "Downloads" and unzip the Stockholm-ticket-art.zip
-
+Next open the Android file manager, navigate to the downloaded .zip file and extract it.
 
 Next start your Firefox browser and search for '/' in the search bar. 
 It is important that you type only /  that is, the forward slash-symbol and hit search. Firefox will show you your own directory tree.
