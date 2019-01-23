@@ -3,7 +3,7 @@ Stockholm ticket art competition
 
 This is a personal art-project for Stockholm Ticket Art. It is an inofficial contest known only to some interested in Ticket-art in Stockholm, Sweden.
 
-The purpose is art, and nothing else. This entry is a submission of one and other individuals artistic intepretation of the Stockholm SL tickets. 
+The purpose is art, and nothing else. This entry is a submission of one individual (with the unknowing help of others and their skill) artistic intepretation of the Stockholm SL tickets. 
 
 Have a good day.
 
